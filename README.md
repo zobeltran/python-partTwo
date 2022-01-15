@@ -1,1 +1,1 @@
-# python-partTwo
+# django-sample
